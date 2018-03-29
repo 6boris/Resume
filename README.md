@@ -44,7 +44,7 @@
 | MySQL  |   2   |
 | Laravel  |   2   |
 | Oracle  |   2   |
-
+| Java  |   0   |
 
 
 
